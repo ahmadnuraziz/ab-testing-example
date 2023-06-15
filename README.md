@@ -8,13 +8,13 @@ This repository contains a simple example of post-experiment analysis and power 
 
 ## Post-experiment Analysis <a name="post-experiment-analysis"></a>
 
-In this section, we provide an analysis of the results obtained after conducting an experiment. We describe the steps taken to analyze the data and the conclusions drawn from the analysis. This analysis helps to gain insights and understand the implications of the experiment.
+In this section, we provide a simple example of post-experiment from open-source data ([source]:(https://www.kaggle.com/datasets/sergylog/ab-test-useraggregated-results)). 
 
 To view the detailed post-experiment analysis, click [here](https://github.com/ahmadnuraziz/ab-testing-example/blob/main/ab%20testing%20example.ipynb).
 
 ## Power Analysis <a name="power-analysis"></a>
 
-Power analysis is an important aspect of experimental design that helps determine the sample size required to detect a specific effect with a given level of confidence. In this section, we present a power analysis conducted for a particular experiment. We explain the methodology used for power calculation and provide the results obtained.
+Power analysis is an important aspect of experimental design that helps determine the sample size required to detect a specific effect with a given level of confidence. In the code, we show how to calculate the power analysis, especially for proportion metrics. For another type of metrics, we can change the value of variance of the metrics.
 
 To view the detailed power analysis, click [here](https://github.com/ahmadnuraziz/ab-testing-example/blob/main/power_analysis.ipynb).
 
