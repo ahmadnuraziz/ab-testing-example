@@ -8,7 +8,7 @@ This repository contains a simple example of post-experiment analysis and power 
 
 ## Post-experiment Analysis <a name="post-experiment-analysis"></a>
 
-In this section, we provide a simple example of post-experiment from open-source data ([source]:(https://www.kaggle.com/datasets/sergylog/ab-test-useraggregated-results)). 
+In this section, we provide a simple example of post-experiment from open-source data. [source data here](https://www.kaggle.com/datasets/sergylog/ab-test-useraggregated-results). 
 
 To view the detailed post-experiment analysis, click [here](https://github.com/ahmadnuraziz/ab-testing-example/blob/main/ab%20testing%20example.ipynb).
 
